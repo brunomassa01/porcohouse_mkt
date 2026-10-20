@@ -31,3 +31,7 @@ O menor preço não determina sozinho a recomendação. Primeiro verificamos os 
 ## Informações comerciais
 
 Confirme que o repositório é privado antes de adicionar documentos confidenciais. Evite guardar senhas, dados bancários e dados pessoais desnecessários. A aprovação da contratação e o contato com fornecedores dependem de instrução explícita do responsável.
+
+## Contexto da Porco House TV
+
+O [arquivo-mestre do projeto](contexto/README.md) reúne o contexto editorial, de produção, operação e marketing enviado por Bruno. As propostas e decisões de fornecedores continuam nas pastas próprias acima.
